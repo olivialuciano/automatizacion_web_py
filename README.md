@@ -2,7 +2,7 @@
 
 ¡Bienvenido al proyecto de Automatización y Web Scraping en Supermercados! Este script, desarrollado en Python utilizando las bibliotecas Selenium y Helium, te permite buscar productos en diferentes supermercados, obtener sus nombres y precios, y guardarlos en un archivo JSON para una rápida referencia.
 
-### ¡Automatizá la búsqueda de precios y ahorra dinero en tus compras diarias!
+### ¡Automatizá la búsqueda de precios y ahorrá dinero en tus compras diarias!
 
 ## Características
 
