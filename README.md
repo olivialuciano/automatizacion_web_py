@@ -1,4 +1,4 @@
-# Automatización y Web Scraping en Supermercados de la ciudad de Messi (Rosario).
+# Automatización y Web Scraping en Supermercados de la ciudad de Rosario.
 
 ¡Bienvenido al proyecto de Automatización y Web Scraping en Supermercados! Este script, desarrollado en Python utilizando las bibliotecas Selenium y Helium, te permite buscar productos en diferentes supermercados, obtener sus nombres y precios, y guardarlos en un archivo JSON para una rápida referencia.
 
@@ -8,7 +8,7 @@
 
 - **Tecnologías Utilizadas:** Python, Selenium, Helium
 - **Métodos de Búsqueda:** CSS Selectors, XPath
-- **Funcionalidad Principal:** Búsqueda de productos en supermercados, obtención de nombres de productos y sus precios, almacenamiento en un archivo JSON y su eliminación posterior.
+- **Funcionalidad Principal:** Búsqueda de productos en supermercados, obtención de nombres de productos y sus precios, almacenamiento en un archivo JSON y su eliminación posterior. Además, tenés la opción de ver un video receta de youtube sobre el producto consultado.
 
 ## Cómo Funciona
 
@@ -22,18 +22,18 @@
 
 5. **Eliminación:** Para no ocupar espacio, al finalizar de leer el archivo, puedes eliminar el archivo JSON presionando "Enter".
 
+6. **Video receta:** Una vez eliminado el archivo puedes optar por ver un video receta del producto buscado.
+
 ## Por qué esto
 
 La idea surgió de la necesidad de encontrar rápidamente los precios más bajos para productos cotidianos. Por ejemplo, la yerba mate playadito. La yerba no es un producto muy barato entonces se me ocurrió automatizar un poco la tradicional búsqueda manual de precios. Con este script, podés:
 
 - **Ahorrá Tiempo:** Evitá la molestia de buscar manualmente en varios sitios web de supermercados.
 - **Tomá Decisiones Informadas:** Compará rápidamente los precios y tomá decisiones de compra más inteligentes.
+- **Encontrar una buena receta:** Sin siquiera hacer un click vas a acceder a una excelente receta de youtube sobre el producto que buscaste.
 
 ## Requisitos y Uso
 
-Para utilizar este script, asegúrate de tener instaladas las bibliotecas de Python: Selenium y Helium. También se requiere tener google chrome.
-
-1. Instalá las bibliotecas requeridas usando: `pip install selenium helium`
+1. Si no tenés Python instalado en la compu, podés descargarlo mediante este link: https://www.python.org/downloads/ e instalarlo.
 2. Descargá google chrome si no lo tenés.
 3. Ejecutá el script y seguí las instrucciones para buscar productos y obtener los precios.
-
