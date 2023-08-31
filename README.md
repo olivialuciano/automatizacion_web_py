@@ -36,4 +36,4 @@ La idea surgió de la necesidad de encontrar rápidamente los precios más bajos
 
 1. Si no tenés Python instalado en la compu, podés descargarlo mediante este link: https://www.python.org/downloads/ e instalarlo.
 2. Descargá google chrome si no lo tenés.
-3. Ejecutá el script y seguí las instrucciones para buscar productos y obtener los precios.
+3. Ejecutá el script.
