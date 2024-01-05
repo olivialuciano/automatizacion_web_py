@@ -35,5 +35,6 @@ La idea surgió de la necesidad de encontrar rápidamente los precios más bajos
 ## Requisitos y Uso
 
 1. Si no tenés Python instalado en la compu, podés descargarlo mediante este link: https://www.python.org/downloads/ e instalarlo.
-2. Descargá google chrome si no lo tenés.
-3. Ejecutá el script.
+2. Descargá Selenium: pip install selenium
+3. Descargá google chrome si no lo tenés.
+4. Ejecutá el script.
